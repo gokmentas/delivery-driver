@@ -1,6 +1,6 @@
 # Delivery Driver
 
-Delivery Driver is a 2D driving game where you take on the role of a delivery driver with the task of picking up packages and delivering them to customers. Navigate through the city, avoiding collisions, and strategically managing your speed to ensure successful deliveries.
+Delivery Driver is a Unity2D driving game where you take on the role of a delivery driver with the task of picking up packages and delivering them to customers. Navigate through the city, avoiding collisions, and strategically managing your speed to ensure successful deliveries.
 
 ![Delivery Driver Gameplay Screenshot](screenshot.png)
 
